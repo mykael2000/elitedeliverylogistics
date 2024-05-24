@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect("localhost", "elit_elite", "Mykael@1234Gh71", "elit_elite");
+$con = mysqli_connect("mocha3040.mochahost.com", "writersb_elite", "el@43TElogi", "writersb_elite");
 
 // if ($con) {
 //     echo "successfull";
