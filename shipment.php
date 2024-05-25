@@ -98,7 +98,7 @@ $fetch = mysqli_fetch_array($query);
         <!-- NAV START -->
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container">
-                <a href="index.html" class="navbar-brand"><img src="images/logos/logo.png" alt=""></a>
+                <a href="index.html" class="navbar-brand"><img src="images/logos/logo2.png" alt=""></a>
 
                 <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#main-nav">
                     <span class="menu-icon-bar"></span>
@@ -350,7 +350,7 @@ $fetch = mysqli_fetch_array($query);
                 <div class="col-lg-5">
                     <div class="footer-col fooler-left-col">
                         <figure class="footer-logo">
-                            <img src="images/logos/logo.png" alt="">
+                            <img src="images/logos/logo2.png" alt="">
                         </figure>
                         <div class="footer-caption">
                             <p>We have a solution for every need to send or supply products in any mode of freight
@@ -398,7 +398,7 @@ $fetch = mysqli_fetch_array($query);
                 </div>
             </div>
             <hr class="footer-divider">
-            <p class="footer-bootom">Copyright © 2024 Smart Bolt Express Logistics</p>
+            <p class="footer-bootom">Copyright © 2024 Elite Delivery Logistics</p>
         </div>
     </footer>
     <!-- FOOTER END -->
