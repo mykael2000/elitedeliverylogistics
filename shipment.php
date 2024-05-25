@@ -25,7 +25,7 @@ $fetch = mysqli_fetch_array($query);
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <!-- TITLE -->
-    <title>Tracking - Elite Logistics Express Company</title>
+    <title>Tracking - Elite Delivery Logistics Company</title>
 
     <!--  FAVICON  -->
     <link rel="shortcut icon" href="images/icons/favicon.png">
@@ -419,7 +419,7 @@ $fetch = mysqli_fetch_array($query);
 </body>
 
 
-<!-- Mirrored from quickdevs.com/demo/Elite Logistics Express/contact by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 17 Aug 2024 13:29:39 GMT -->
+<!-- Mirrored from quickdevs.com/demo/Elite Delivery Logistics/contact by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 17 Aug 2024 13:29:39 GMT -->
 
 <!-- Mirrored from bolt-cargologistics.com/tracking by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Mar 2024 01:13:11 GMT -->
 
